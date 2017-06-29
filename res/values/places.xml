@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="places">
+        <item>basilicaSanNicola</item>
+        <item>bedDrinkFood</item>
+        <item>capaDelTurco</item>
+        <item>casaPiccinni</item>
+        <item>castelloSvevo</item>
+        <item>cattedrale</item>
+        <item>cisternaBonaSforza</item>
+        <item>colonnaInfame</item>
+        <item>exultet1</item>
+        <item>fontanaDellaPigna</item>
+        <item>fortino</item>
+        <item>isolato49</item>
+        <item>palazzoDelSedile</item>
+        <item>piazzaFerrarese</item>
+        <item>piazzaMercantile</item>
+        <item>piazzaOdegitria</item>
+        <item>sanGregorio</item>
+        <item>santaMariaDelBC</item>
+        <item>santAnna</item>
+        <item>santaScolastica</item>
+        <item>viaAppia</item>
+        <item>viaVenezia</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toolbar_welcome_subt" translatable="true">A tour in the Old Town</string>
+    <string name="toolbar_places_subt" translatable="true">Sites of interest</string>
+    <string name="toolbar_map_subt" translatable="true">Feel free to move around</string>
+
+    <string name="toolbar_map_title" translatable="true">Old Town</string>
+
+    <string name="city_name" translatable="true">City of Bari</string>
+
+    <string name="menu_places" translatable="true">Places</string>
+    <string name="menu_welcome" translatable="true">Home</string>
+    <string name="menu_map" translatable="true">Map</string>
+    <string name="menu_change_language" translatable="true">Passa ad Italiano</string>
+
+    <string name="projTitle" translatable="true">Searching our roots</string>
+    <string name="projAim" translatable="true">La conoscenza, la tutela e la valorizzazione del proprio territorio e del relativo patrimonio storico, artistico e paesaggistico sono gli obiettivi fondanti del progetto denominato “Alla ricerca delle nostre radici”.
+Creare per gli alunni occasioni di consapevolezza e di espressione culturale, con riguardo alle competenze relative all\’identità storica e sociale, è uno dei compiti precipui di una scuola rinnovata, attenta  "all\'ambiente" e al suo patrimonio culturale.
+Il progetto ha condotto i ragazzi, che ne sono stati attori protagonisti, a
+comprendere il cambiamento e la diversità dei tempi storici in una dimensione sia diacronica che sincronica attraverso il confronto fra epoche e fra territori diversi.
+"L\'importanza dell\'azione" di tutela del patrimonio storico e culturale in quanto valore materiale ed etico "dell\'eredità" storica regionale e locale, insieme ad un riconoscimento del valore e delle potenzialità dei beni artistici e ambientali, per una loro corretta fruizione e valorizzazione, costituiscono le premesse di un impegno sostanziale per un attiva cittadinanza in difesa del proprio territorio sociale, culturale e naturale.</string>
+    <string name="projInfoButtonLabel">the project →</string>
+
+    <string name="historyTitle">A bit of History</string>
+    <string name="history" translatable="true">Bari is an ancient-born city, with its first recorded settlements dating II millennium b.C.\n
+In III century, the city was an important port for the people living in the Peucetia region; it got conquered by Romans, turned into a Municipium (a kind of colony), and then got involved in the battles between Byzantines and Lombards.
+In 1071 the Normans took the city, and the first crusade upon the Holy Land sailed from its port.
+In the XIII century, Bari was achieved by Federico II the Swabian and became a farily large trading center; it fell down when the Angevins arrived, and raised again with the "Sforza\'s" dinasty, thanks to Isabella "D\'Aragona" and her daughter, Bona Sforza duchess of Bari.
+In the XVI century fell under Spanish domination first, and "Bourbons\' domination" then, before becoming part of the "Savoia\'s" reign with the Unity of Italy, in 1861.</string>
+    <string name="historyButtonLabel">History →</string>
+
+    <!-- places! -->
+    <string name="place_basilicaSanNicola_title">Basilica of St. Nicholaus</string>
+    <string name="place_bedDrinkFood_title">Bed Drink Food</string>
+    <string name="place_capaDelTurco_title">Testa Del Turco - Oak Street</string>
+    <string name="place_casaPiccinni_title">"Piccinni\'s" House</string>
+    <string name="place_castelloSvevo_title">Swabian Norman Castle</string>
+    <string name="place_cattedrale_title">Cathedral of Saint Sabino</string>
+    <string name="place_cisternaBonaSforza_title">Cistern of Bona Sforza</string>
+    <string name="place_colonnaInfame_title">Colonna Infame</string>
+    <string name="place_exultet_title">Exultet</string>
+    <string name="place_fontanaDellaPigna_title">Fontana della Pigna</string>
+    <string name="place_fortino_title">Fortino</string>
+    <string name="place_isolato49_title">Line 49</string>
+    <string name="place_palazzoDelSedile_title">Palazzo Del Sedile</string>
+    <string name="place_piazzaFerrarese_title">Ferrarese Square</string>
+    <string name="place_piazzaMercantile_title">Mercantile Square</string>
+    <string name="place_piazzaOdegitria_title">Odegitria Square</string>
+    <string name="place_sanGregorio_title">Church of San Gregorio</string>
+    <string name="place_santaMariaDelBC_title">Church of Santa Maria del Buon Consiglio</string>
+    <string name="place_santAnna_title">"Sant\'" Anna Church</string>
+    <string name="place_santaScolastica_title">Santa Scolastica</string>
+    <string name="place_viaAppia_title">Via Appia</string>
+    <string name="place_viaVenezia_title">Via Venezia</string>
+    <!-- no more places -->
+    
+    <!-- content texts! -->
+    <string name="place_basilicaSanNicola_content">The Basilica of St. Nicholas in the heart of the old town in Bari, is one of the most shining examples of Apulian-Romanesque architecture. It was built between 1087 and 1100, during the Norman Rule to house the relics of St. Nicholaus from Myra, a city of Licia in Asia Minor.
+Initially the rests of the Saints were systematized in the monastery of S. Benedict, held up by the abbot Elia. In the turn of little time it was chosen to build the new building and in 1087 they began the jobs. Was chosen the area that few years earlier had housed the palace of catapan. Two years later, in October of 1089, the relics of St. Nicola were deposed in the crypt of the basilica stolen by sixty-two sailors baresi. For its construction it was used part of the materials coming from the "governor\'s palace", namely the "Kastron".
+The Basilica is today used not only to house the relics, but also to pray, according to both the Christian rite-both catholic and according to the orthodox Christian rite.</string>
+	<string name="place_bedDrinkFood_content">The Old Borough of Bari is an interesting place to discover. 
+If you are planning to spend a weekend exploring the city, then the Borough offers some quaint and picturesque B&amp;Bs. Renowned for their locations and their architecture, these B&amp;Bs will be the ideal starting point for your stroll along the seaside or for your exploration of the alleys of the Borough.
+Particularly noteworthy are the B&amp;B in Strada Annunziata, 2, located on top of “La Muraglia”, the ancient ramparts that for centuries have protected the Borough from enemy invasions, and “La Uascezze” B&amp;B in Vico Agostino, 2 which offers also a restaurant and its renowned for its location and for the hospitality and friendliness of its staff. If you fancy sipping a drink while enjoy the evening breeze and the view of the sea, then a stroll on “La Muraglia” will give you an ample choice of pubs and cocktail bars, otherwise you can enjoy the lively Piazza del Mercantile and Piazza del Ferrarese with their trendy coffee shops, bars and restaurants, that especially during Summer offer live music as well.
+After a long day spent exploring, you may want to take a break and just taste all that the cooking tradition of the city has to offer. 
+Simplicity is a key word in the traditional cooking of this city. Traditional dishes of Bari are the result of a skilful mix of ingredients that come from the Earth and the Sea, slow cooked to better enhance the taste. Vegetables, beans, lentils, herbs but also fish and sea food, all seasoned with either locally produced extra-virgin olive oil or lemon juice as dictated by the Mediterranean diet.
+Some of the most famous dishes you will be able to taste include homemade Orecchiette (pasta) with tomato suace or with locally produced fresh vegetables, and the iconic “Tiella di patate, cozze e riso”, a local version of the famous Spanish Paella, with rice, potatoes, tomato sauce and mussels.
+The list of dishes does not end here, however the best way to taste and enjoy all that the culinary tradition has to offer is to take a stroll through the alleys of the Borough and let yourself be inspired by the mouthwatering scents coming from the various restaurants and inns dotting the Borough.
+Noteworhty restaurants are “La Uascezze”, that offers many traditional dishes; “La Cantina di Cianna Cianne” in vico Corsioli, 3, one of the oldest and most picturesuqe restaurants of the Borough, where you will be able to enjoy the traditional tastes of homemade cooking . Otherwise, have a peek and enjoy the feeling of eating in a real tavern. Founded in 1815, the “ Antica Osteria delle Travi” in Largo Chiurlia, 12 offers tasty dishes.</string>
+	<string name="place_capaDelTurco_content">Oak street, which is located on the left straight along San Gregorio’s church, has the name of a family from Bari. It leads to St Chiara’s street and there is an interesting particular, that you can see after a short stretch. On the top of a door there is a very ancient sculpture that represents a rough Turkish head made of stone. Its name is “La cape du turchie”. The sculpture is very ancient. It is said that every day during the night the troubled soul of the Turkish wanders to look for the person who killed him.</string>
+    <string name="place_casaPiccinni_content">Niccolò Piccinni was a great  composer from Bari, in the  17th century. His home is located in the  old city centre, not far from the fountain in “Vico Fiscardi”.Nobody knows if he was really born in that  house, but his family lived there for sure. Today the house has become the venue of the association  "I luoghi della musica", and hosts the original printed editions of his works, and of southern authors of the centuries XVII - XX.
+The house of the composer has been transformed into a place of diffusion of the Apulian musical heritage.</string>
+	<string name="place_castelloSvevo_content">The Swabian Norman Castle is an imposing fortress of the Middle Ages on the edge of the old town.The fortification was built in the 1131 by the Norman King Ruggero II  on  pre – existing Byzantine structures. Destroyed by  Guglielmo I said the Malo on the 1156 year, the castle was rebuilt by Federico II of  Svevia from the 1233 year to 1240 year. During the angioino’s  period Carlo I  made important  restoration works . In the 1500 duchesses of Bari, Isabella d’ Aragona  and  her  daughter Bona  Sforza  instituted a refined  renaissance  court in the castle.  In 1800  it was  a  prison  and  later a  barrack. Currently  some of  the rooms are intended to Gipsoteca and  other  temporary  exhibitions. Now the castle  is  present surrounded by the moat that rums along three  parts, except for the northern  range, once  upon a time wet by  the sea.</string>
+    <string name="place_cattedrale_content">The cathedral of Bari, dedicated to Saint Sabino, Canosa’s bishop, is located in the heart of Bari’s ancient village. It was built in the first half of XI century by archbishop Bisanzio and It was destroyed in the 1156 by norman Guglielmo I named the Malo. About the end of the XII century it was rebuilt by the archbishop Rainaldo using the materials of the previous churches and other destroyed buildings. The church is in style Romanic- Pugliese, heardquarters of the Archdiocese of Bari- Bitonto, it was a reference  for the clergy and for the citizen’s political power. It preserves the relics of Saint Sabino , the icon of the Madonna Odegitria and spoils of the Saint Colomba of Sens. In the Dioesano museum, attached to the cathedral, there are  four liturgical rolls from the XI century with the scriptur nomined Bari Type.</string>
+    <string name="place_cisternaBonaSforza_content">In San Bisanzio and Rainaldo square, there is one of the cisterns costructed in XVI century by Bona Sforza, queen of Poland, daughter of the Duchess of Bari, Isabella D’Aragona.
+In the cistern water was picked up to quench thirsty of people in town during the warm summer months.
+Today the cistern is not used, but it has an inestimable value for the history of this city.</string>
+	<string name="place_colonnaInfame_content">In Bari, la COLONNA INFAME is shown in the middle of  Mercantile Square. It is constituted by a column sormounted by a sphere with a big lion crowched down at the base with thelabel “custos iusticiae”, that is Guardian of Justice.
+It was built white marble. The debtors that "didn\'t" pay their debts were tied with their hands blocked behind their shoulders and shown to the public.
+Today the monument has lost that function and it adorns the square.</string>
+	<string name="place_exultet_content">The “Exultet” is a liturgical chant of the Catholic Church which goes back to the V-VI century and which is sung during the Easter night by a deacon.
+The Exultet was written on a parchment scroll, 5.3 mt long, which was slid down from the pulpit while the opposite images allowed the illiterate faithful to understand the song.
+There are 28 Exultet in the world; 3 of them are guarded in Bari, at the Diocesan Museum of the “Curia Vescovile”.
+One of these has notes "a Neumi" relating to music ( notes on the pentagram helping the celebrant during the performance of the Easter hymn).
+The Bari Diocesan museum is located on the first floor of the "Archbishop\'s" palace.
+Its purpose is to preserve, protect and promote the culture of the historical and artistic heritage of the Cathedral of San Sabino.</string>
+	<string name="place_fontanaDellaPigna_content">Between Orefice street and Palazzo di Città street, in front of the “Sedile” there is one of the most famous fountains in Bari, the “Fontana della Pigna”. 
+It is a public fountain of the XVI - XVII century, named also "fountain with 4 faces", hence the saying  "si proprie nu quatt facce". 
+The name “Fontana della Pigna” depends on the fact that in origin it was surmounted by a bronze cone. The symbol of the pine cone was chosen in the Middle Ages for the crowning of the fountains. 
+The fountain still serves today, as in the past, to distribute water to the whole neighbourhood and to decorate the square.</string>
+	<string name="place_fortino_content">Its trapezoidal shape was built to protect "Bari\'s" port. The tower was built in 1440 by the duke of bari  in castel shape but it was destroyed by people from Bari , at his death.
+It was restored by the duchess "Isabelle D\'Aragona" , underground passages were built to let people to run away.
+In the last door of the tower, you  can see a coat of arms, it belonged to the prince  Antonio del Balzo , duke of Bari. In the top  you can see slits from which the portcullises were let down.
+The facade in Venezia street is opened by an archivolt portal with two  headstones and some inscribes.
+The “fortino” takes the name of the saint  Antonio from a woodes  statue of the saint , found  in the old underground chapel.</string>
+	<string name="place_isolato49_content">The line 49 is an important  bulding located in the old part of Bari. They’re buldings of the Middle Age. The most important and interesting thing is the “House Tower”: a fortified bulding with housing and military function. The “House Tower” was built by stone with thick walls  and small windows, it has a rectangular form a real very big tower, it was a special strategic point for observation.</string>
+    <string name="place_palazzoDelSedile_content">The “Palazzo del Sedile” is placed in Mercantile square, centre of the ancient commercial road. It was built in 1446, seat of the Council of the Nobles and of the Primaries, in which the Civic University was reunited. Destroyed by a fire in the 600, the palace was rebuilt in the 700 with several additions, such as the tower with the clock.  In 1820 it was transformed into a theatre and today the palace is of private property.</string>
+	<string name="place_piazzaFerrarese_content">Ferrarese square faces the Augusto promenade. Recentely , part of  Appia -Traiana route has been found out , built by  Romans  at the beginning of the  2 nd  century  A.D.
+The square was so called  in honour of Stefano Fabri, a merchant from Ferrara  lived  in Bari  in XVII century.
+In the evening  it is possible to admire  the beautiful seascape. Concert , performances  and shows are given here, in this  cosy square. </string>
+	<string name="place_piazzaMercantile_content">Piazza Mercantile is one of the most important squares of the old city centre where was the market place ; it was therefore a place of political and administrative exchange of the city. 
+The “Colonna della giustizia” and the “palazzo del sedile” can be also admired here.
+The square is a meeting point for citizens, linking the modern town with the old one and it is home to cultural events.</string>
+    <string name="place_piazzaOdegitria_content">Odegitria Square is located in the heart of the old city of Bari.
+It was and still is a small square named after a painting of our lady brought to Bari in 733 by some monks who had stolen it in Costantinople.
+The picture of the Virgin Odegitria, i.e. “who shows the way”, could be the one that is in the crypt of the cathedral that dominates the square.
+Was say “ Piazza Odegitria” on 1292 when the cathedral was officialiy dedicated to Madonna Odegitria.</string>
+	<string name="place_sanGregorio_content">The church of San Gregorio, one of the oldest of Bari, is situated in the old town. It overlooks the square of 62 sailors and was build between the tenth and the eleventh century.
+Inside there is a crucifix which is said to date back to the XVII century and bare walls make the church rather austere.</string>
+	<string name="place_santaMariaDelBC_content">The church of Santa Maria del Buon Consiglio is situated in the square of the old town of Bari and was originally a place of worship and aggregation. The building dates back to the ninth century and, after the destruction of the city by the Guglielmo Malo, it was rebuilt using the columns of the Roman period of the Middle Ages. Archaeological excavations have allowed to determine three different stages of the building of worship
+-the earliest phase dates back to the centuries IX and X traces remain in the remnants of the floor marble mosaic;
+-the next step is dated to centuries XI and XII as mosaic testyfies for central naval relize made with marble;
+-the most recent phase dates back to the eighteenth century.
+Unfortunately, the ancient monoabsidata three-nave church, only a few remains are visible today.</string>
+	<string name="place_santAnna_content">“Sant’Anna” church is located in Palazzo di Città street and it dates back to the XI century. It is a church of great architectural interest because of the styles mixture.
+The outside façade is bell-shaped with a pitch roof. The surface is white with marble tiles representing real or fanciful animals coming from Byzantine culture. 
+The inside has Renaissance architecture with one aisle, with a wooden carved altar and around it statues representing Franciscan saints.</string>
+	<string name="place_santaScolastica_content">The church is one of the oldest in the city and it is situated at the end of the walls in Venezia street.
+It was built before 1100 and it dates back the 8th century ,it is made of local stone. The facade front of the church is in the Baroque style  and the bell tower is in the Romanesque style.
+The complex includes the church, the former convent of Benedictine and the block-house.
+Now it is  a university seat  and it houses the city Archaeological museum.</string>
+	<string name="place_viaAppia_content">The road was built in the 103 AD from the emperor Traiano to connect Benevento to Brindisi: indeed the part of the Roman street which is present in Piazza Ferrarese belongs to the Via Appia-Traiana, nowadays visible archaeological find.
+On the Promenade of the city there is a cippo in marble that represents a military column with the inherent information about the distance, "the emperor\'s" name, his honorary positions and the street construction expenses.</string>
+    <string name="place_viaVenezia_content">Via Venezia is the elevated road that borders from within the walls of the old city centre 
+The city walls were fortified in the 15th century to guard the port, but they have at the base the medieval structure. 
+The walls were restored between the 15th and 16th century and were a real showpiece for the city; until 1930 they were facing directly onto the sea, while today the walls constitute an appealing walk around the  old city centre.</string>
+	<!-- the end-->
+
+    <string name="bedfood_dialog_web">Open in the browser</string>
+    <string name="bedfood_dialog_map">View on the map</string>
+    <string name="close">Close</string>
+    <string name="not_available">Sorry, this content is not available in your language.</string>
+    <string name="language">Italiano</string>
+    <string name="credits">Credits</string>
+    <string name="intro">“Alla ricerca delle nostre radici”\n(“Searching our roots”)\nTaking a walk in "Bari\'s" Old Town</string>
+    <string name="cityCredit">The project was funded by the municipality of Bari, department of Education, and patronized by the II city district thanks to the valuable contribution and direction of Dr. A. Positano, art historian.</string>
+    <string name="read_more">Read more…</string>
+    <string name="contacts_title">Contact the developer</string>
+    <string name="mail">e-mail</string>
+    <string name="twitter">twitter</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/infocard_title"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimary"
+        android:fontFamily="sans-serif"/>
+
+    <TextView
+        android:id="@+id/infocard_contentText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="6"
+        android:ellipsize="end"
+        android:textSize="18sp"
+        android:lineSpacingExtra="4dp"/>
+
+    <Button
+        android:id="@+id/infocard_button"
+        android:layout_height="50dp"
+        android:layout_width="wrap_content"
+        android:layout_gravity="end"
+        android:background="@drawable/infobutton_background"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="2dp"
+        android:paddingStart="2dp"
+        android:paddingEnd="4dp"
+        android:textAlignment="viewEnd"
+        android:textAllCaps="true"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/colorPrimary"/>
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:orderInCategory="1">
+
+        <item
+            android:checkable="true"
+            android:id="@+id/welcome"
+            android:title="@string/menu_welcome"
+            android:icon="@drawable/ic_home"/>
+
+        <item
+            android:checkable="true"
+            android:id="@+id/places"
+            android:title="@string/menu_places"
+            android:icon="@drawable/ic_account_balance"/>
+
+        <item
+            android:checkable="true"
+            android:id="@+id/maps"
+            android:title="@string/menu_map"
+            android:icon="@drawable/ic_map"/>
+
+    </group>
+
+    <group
+        android:orderInCategory="2">
+
+        <item
+            android:checkable="false"
+            android:id="@+id/changeLanguage"
+            android:title="@string/menu_change_language"
+            android:icon="@drawable/ic_action_flags"/>
+
+    </group>
+
+</menu>

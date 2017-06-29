@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:layout_gravity="bottom"
+    android:background="#fdfdfd"
+    android:gravity="bottom">
+
+    <ImageButton
+        android:layout_height="20dp"
+        android:layout_width="20dp"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:id="@+id/map_infodialog_close"
+        android:src="@drawable/ic_close"
+        android:tint="#bebebe"
+        android:background="@android:color/transparent"
+        tools:ignore="ContentDescription"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/map_infodialog_text"
+        android:layout_gravity="bottom"
+        android:paddingStart="24dp"
+        android:paddingEnd="24dp"
+        android:textSize="16.5sp"
+        android:maxLines="8"
+        android:ellipsize="end"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="4dp"
+        android:id="@+id/map_infodialog_button"
+        android:background="@android:color/transparent"
+        android:text="@string/read_more"
+        android:textSize="17sp"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textAlignment="center"/>
+
+</LinearLayout>

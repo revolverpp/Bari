@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name" translatable="false">Bari</string>
+
+    <string name="toolbar_welcome_subt" translatable="true">Un giro nella città vecchia</string>
+    <string name="toolbar_places_subt" translatable="true">Attrazioni e monumenti</string>
+    <string name="toolbar_map_subt" translatable="true">Sentiti libero di esplorare</string>
+
+    <string name="toolbar_map_title" translatable="true">Centro Storico</string>
+
+    <string name="city_name" translatable="true">Città di Bari</string>
+
+    <string name="menu_places" translatable="true">Luoghi</string>
+    <string name="menu_welcome" translatable="true">Home</string>
+    <string name="menu_map" translatable="true">Mappa</string>
+    <string name="menu_change_language" translatable="true">Switch to English</string>
+
+    <string name="projTitle" translatable="true">Alla ricerca delle nostre radici</string>
+    <string name="projAim" translatable="true">La conoscenza, la tutela e la valorizzazione del proprio territorio e del relativo patrimonio storico, artistico e paesaggistico sono gli obiettivi fondanti del progetto denominato “Alla ricerca delle nostre radici”.
+Creare per gli alunni occasioni di consapevolezza e di espressione culturale, con riguardo alle competenze relative all\’identità storica e sociale, è uno dei compiti precipui di una scuola rinnovata, attenta  all\'ambiente e al suo patrimonio culturale.
+Il progetto ha condotto i ragazzi, che ne sono stati attori protagonisti, a
+comprendere il cambiamento e la diversità dei tempi storici in una dimensione sia diacronica che sincronica attraverso il confronto fra epoche e fra territori diversi.
+L\'importanza dell\'azione di tutela del patrimonio storico e culturale in quanto valore materiale ed etico dell\'eredità storica regionale e locale, insieme ad un riconoscimento del valore e delle potenzialità dei beni artistici e ambientali, per una loro corretta fruizione e valorizzazione, costituiscono le premesse di un impegno sostanziale per un attiva cittadinanza in difesa del proprio territorio sociale, culturale e naturale.</string>
+    <string name="projInfoButtonLabel">il progetto →</string>
+
+    <string name="historyTitle">Cenni Storici</string>
+    <string name="history" translatable="true">Bari è una città con origini antiche, vi sono testimonianze risalenti al II millennio a.C.
+    Nel III secolo a.C. la città era un fiorente porto della popolazione della Peucetia, fu conquistata dai romani e divenne Municipium, fu poi coinvolta nelle lotte fra Bizantini e Longobardi.
+    Nel 1071 la città passò ai Normanni e dal suo porto nel 1096 partì la prima crociata per la Terra Santa. Nel XIII° secolo fu possedimento "dell\'Imperatore" Federico II° di Svevia, diventando un centro di commerci molto fiorenti, decadendo poi con "l\'arrivo" degli Angioini per risorgere successivamente con gli Sforza, per mano di Isabella "D\'Aragona" e la figlia Bona Sforza Duchessa di Bari.
+    Nel XVI secolo la città ebbe la dominazione spagnola e quella borbonica, infine nel 1860 con "l\'unità d\'Italia" divenne parte del regno dei Savoia.</string>
+    <string name="historyButtonLabel">La storia →</string>
+
+    <!-- places! -->
+    <string name="place_basilicaSanNicola_title">Basilica San Nicola</string>
+    <string name="place_bedDrinkFood_title">Bed Drink Food</string>
+    <string name="place_capaDelTurco_title">Capa Del Turco</string>
+    <string name="place_casaPiccinni_title">Casa Piccinni</string>
+    <string name="place_castelloSvevo_title">Castello Svevo</string>
+    <string name="place_cattedrale_title">Cattedrale</string>
+    <string name="place_cisternaBonaSforza_title">Cisterna Bona Sforza</string>
+    <string name="place_colonnaInfame_title">Colonna Infame</string>
+    <string name="place_exultet_title">Exultet</string>
+    <string name="place_fontanaDellaPigna_title">Fontana Della Pigna</string>
+    <string name="place_fortino_title">Fortino</string>
+    <string name="place_isolato49_title">Isolato 49</string>
+    <string name="place_palazzoDelSedile_title">Palazzo Del Sedile</string>
+    <string name="place_piazzaFerrarese_title">Piazza Ferrarese</string>
+    <string name="place_piazzaMercantile_title">Piazza Mercantile</string>
+    <string name="place_piazzaOdegitria_title">Piazza Odegitria</string>
+    <string name="place_sanGregorio_title">San Gregorio</string>
+    <string name="place_santaMariaDelBC_title">Santa Maria del Buon Consiglio</string>
+    <string name="place_santAnna_title">"Sant\'" Anna</string>
+    <string name="place_santaScolastica_title">Santa Scolastica</string>
+    <string name="place_viaAppia_title">Via Appia</string>
+    <string name="place_viaVenezia_title">Via Venezia</string>
+    <!-- no more places -->
+
+    <!-- content texts! -->
+    <string name="place_basilicaSanNicola_content">La Basilica di S. Nicola, nel cuore del borgo antico di Bari, è uno dei più fulgidi esempi di architettura romanico-pugliese. Essa fu costruita tra il 1087 e il 1100, durante la dominazione normanna, per ospitare le reliquie di S. Nicola provenienti da Myra, una città della Licia, in Asia minore. Inizialmente i resti del Santo vennero sistemati nel monastero di S. Benedetto, retto dall’abate Elia. Nel giro di poco tempo si scelse di costruire il nuovo edificio e nel 1087 iniziarono i lavori. Fu scelta l’area che pochi anni prima aveva ospitato il palazzo del catapano. Due anni dopo, nell’ottobre del 1089, si deposero nella cripta della Basilica le reliquie di S. Nicola trafugate da sessantadue marinai baresi. Per la sua edificazione si utilizzò parte del materiale proveniente dal palazzo del governatore: il “Kastron”.
+La Basilica è utilizzata ancora oggi, non solo per ospitare le reliquie ma anche per pregare, sia secondo il rito cristiano-cattolico, sia secondo il rito ortodosso.</string>
+    <string name="place_bedDrinkFood_content">Bari antica è tutta da scoprire e nel borgo vi sono alcuni B &amp; B particolari e tipici per la loro ubicazione e struttura; è degno di nota quello posto al termine della Muraglia, in strada Annunziata, 2, per la sua posizione strategica; “La Uascezze” in vico Agostino, 2 è collegato "all\'omonima" osteria, perfetto per posizione, ospitalità, pulizia e gentilezza.
+La cucina barese usa ingredienti sia di terra che di mare, che vengono ben amalgamati, esaltandone odori e sapori.
+La caratteristica fondamentale è la semplicità che fa un uso sapiente di ortaggi, legumi, erbe spontanee e verdure che vengono  conditi con ottimo olio extravergine locale, base della dieta mediterranea.
+I piatti più tipici sono: i primi con le orecchiette, pasta fatta in casa  condita con vari sughi, da sola o unita alle verdure locali; la tiella di patate, cozze e riso, versione locale e gustosa della paella spagnola. Molti altri sarebbero i piatti ed i manicaretti da segnalare ma rimandiamo ad una diretta conoscenza attraverso i luoghi di ristoro disseminati nel Borgo antico.
+Si segnalano: “La Uascezze” ristorante che propone molti piatti e prodotti tipici gustosi e genuini, con annesso B &amp; B; “La Cantina di Cianna Cianne” è uno dei ristoranti più antichi e caratteristici dopo si possono apprezzare i sapori tradizionali della cucina casalinga barese, in vico Corsioli, 3; “Osteria delle Travi” in Largo Chiurlia, 12 è una delle vere osterie della città con cucina semplice , saporita e legata alla culinaria del territorio.</string>
+    <string name="place_capaDelTurco_content">Strada Quercia, che si trova a sinistra oltrepassando la chiesa di San Gregorio, prende il nome da una famiglia barese. Essa conduce alla strada Santa Chiara e presenta un particolare degno di attenzione, che può essere osservato dopo esserci inoltrati per un tratto non molto lungo. Sulla sommità di una porta, si scorge una scultura molto antica: una rozza testa di Turco fatta di pietra, che dà al luogo il nome di “La cape du turchie”. La scultura è molto antica. Si narra che la notte lo spirito inquieto del Turco vaghi in cerca di chi lo ha ucciso.</string>
+    <string name="place_casaPiccinni_content">Nel Borgo Antico, presso la fontana di Vico Fiscardi, sorge la casa natale di Nicolò Piccinni, grande compositore barese del 17 secolo.
+Non si sa se il compositore sia nato in casa, ma è certo che la famiglia vi ha abitato. Oggi la casa è divenuta la sede dell’associazione  “i Luoghi della Musica”, e ospita le edizioni originali a stampa delle opere di Nicolò Piccinni, e di autori meridionali dei secoli XVII-XX.
+La casa del compositore barese è stata trasformata in un luogo di diffusione del patrimonio musicale pugliese. </string>
+    <string name="place_castelloSvevo_content">Il Castello Normanno Svevo è un’imponente fortezza di epoca medievale ai margini della città vecchia. La fortificazione fu costruita nel 1131 per volontà del re normanno Ruggero II, su preesistenti  strutture abitative di epoca bizantina. Distrutto da Guglielmo I detto il Malo nel 1156, il Castello fu fatto ricostruire da Federico II di Svevia tra il 1233 e il 1240. Durante il periodo angioino Carlo I fece eseguire importanti lavori di restauro. Nel 1500 le duchesse di Bari, Isabella d’Aragona e la figlia Bona Sforza, istituirono nel Castello una raffinata corte rinascimentale. Nell’ 800 esso fu usato come carcere ed in seguito come caserma. Attualmente alcune sale sono destinate a Gipsoteca e ad altre mostre temporanee. Oggi il Castello si presenta circondato dall’antico fossato che corre lungo i tre lati, ad eccezione della fascia settentrionale, un tempo bagnata dal mare.</string>
+    <string name="place_cattedrale_content">La cattedrale di Bari, dedicata a San Sabino, vescovo di Canosa, è ubicata nel cuore del borgo antico di Bari. Essa fu costruita nella prima metà dell’XI secolo dall’ arcivescovo Bisanzio e distrutta nel 1156 dal normanno Guglielmo I, detto il Malo. Verso la fine del XII secolo venne riedificata dall’arcivescovo Rainaldo reimpiegando anche i materiali della chiesa precedente e di altri edifici distrutti. La chiesa in stile Romanico – Pugliese, sede dell’Arcidiocesi di Bari- Bitonto, fu per secoli punto di riferimento del clero e del potere politico cittadino. Essa conserva le reliquie di San Sabino, l’icona della Madonna “Odegitria” e le spoglie di Santa Colomba di Sens. Nel museo Diocesano, annesso alla Cattedrale, sono custoditi gli Exultet, quattro rotoli liturgici dell’XI secolo, scritti con la scrittura denominata Bari Type.</string>
+    <string name="place_cisternaBonaSforza_content">Nella piazzetta di San Bisanzio e Rainaldo, è situata una delle cisterne fatte costruire nel XVI secolo da Bona Sforza, regina di Polonia, figlia della duchessa di Bari, Isabella d’Aragona.
+Nella cisterna veniva raccolta l’acqua per dissetare i baresi durante i caldi mesi estivi.
+Oggi la cisterna non è utilizzata, ma risulta ancora d’inestimabile valore per la storia di questa città.</string>
+    <string name="place_colonnaInfame_content">A Bari la COLONNA INFAME  è esposta al centro di Piazza Mercantile.
+Essa e costituita da una colonna sormontata da una sfera con un grosso leone accovacciato alla base con la scritta “custos iusticiae” cioé “custode della giustizia”. E’ stata costruita in marmo bianco nel XII secolo e la scultura è databile tra il I secolo a.C e il I secolo d.C.
+Coloro che non pagavano i loro debiti venivano legati con le mani dietro la spalla ed esposti al pubblico ludibrio. Oggi che il monumento ha perso quella funzione è diventato  un elemento caratterizzante della piazza.</string>
+    <string name="place_exultet_content">L’ Exultet è un canto liturgico che risale al V-VIsecolo circa della Chiesa cattolica che viene cantato la notte di Pasqua da un diacono.
+L’Exultet veniva scritto su un rotolo di pergamena lungo 5,30m che si faceva scorrere giù dal pulpito mentre le immagini opposte permettevano ai fedeli analfabeti di capire il canto.
+Al mondo esistono 28 Exultet, 3 sono custodite a Bari, presso il museo Diocesano della Curia vescovile. Una di queste possiede annotazioni “a Neumi” relative alla musica.
+Il museo Diocesano di Bari si trova al primo piano del palazzo Arcivescovile.
+Esso ha lo scopo di preservare, di proteggere e di promuovere la cultura del patrimonio storico ed artistico della cattedrale di S. Sabino.</string>
+    <string name="place_fontanaDellaPigna_content">Tra via Orefice e via Palazzo di Città , di fronte al palazzo del Sedile si trova una delle fontane più famose di Bari , la fontana della Pigna.
+"E'" una fontana pubblica del XVI-XVII secolo, venne nominata "fontana delle quattro facce", di qui il detto " si proprie nu quatte facce".
+Il nome fontana della pigna" dipende dal fatto che in origine era sormontata da una pigna di bronzo. Il simbolo venne scelto nel medioevo per il coronamento delle fontane.
+La fontana ancora oggi ,come nel passato ,distribuisce acqua a tutto il vicinato e decora la piazza Mercantile.</string>
+    <string name="place_fortino_content">Il Fortino ha una forma trapezoidale e difendeva il porto di Bari. Nel 1440 il principe di Taranto Giovanni Antonio Del Balzo fece costruire una torre a guisa di castello che i baresi distrussero alla sua morte.
+Fu poi restaurato dalla duchessa "Isabella D\'Aragona", furono costruiti dei passaggi sotterranei come via di fuga per gli abitanti.
+Sulla porta alla base della torre è visibile lo stemma del principe Del Balzo che era anche duca di Bari.
+La facciata di via Venezia è aperta da un portale con archivolto ornato da due lapidi contenenti delle iscrizioni.
+Il fortino prende il nome di "“Sant\'Antonio”" perché vicino è situata una cappella con una antica statua che raffigura il santo.</string>
+    <string name="place_isolato49_content">"L\'isolato" 49 è "un\'importante" costruzione ubicata nel Borgo antico di Bari.
+Si tratta di edificazioni che risalgono "all\'epoca" medievale. Di particolare rilevanza e interesse è la "Casa Torre": una costruzione fortificata con funzioni sia abitative che militari. La Casa Torre, costruita in pietra con muri spessi e piccole finestre, presenta una struttura a forma rettangolare, un vero e proprio torrione che era uno straordinario punto strategico di osservazione.
+</string>
+    <string name="place_palazzoDelSedile_content">Il Palazzo del Sedile si trova in piazza Mercantile, centro "dell\'antica vita" commerciale della città. Fu costruito nel 1446, sede del Consiglio dei Nobili e dei Primari, vi si riuniva "l\'Università" cittadina.
+Distrutto da un incendio nel "\'600", il palazzo fu ricostruito nel XVIII secolo con varie aggiunte, tra cui la torre con "l'\orologio" e il loggiato. Nel 1820 fu trasformato in teatro ed oggi il palazzo è di proprietà privata.</string>
+    <string name="place_piazzaFerrarese_content">Piazza del Ferrarese è una piazzetta che si affaccia sul lungomare Imperatore Augusto. Recentemente sono state ritrovate tracce della via Appia-Traiana costruita dagli antichi romani "all\'inizio" del II secolo d. C.
+La piazza è chiamata così in onore di Stefano Fabri, un commerciante ferrarese vissuto a Bari nel XVII secolo.
+La sua conformazione la rende idonea per concerti e rappresentazioni artistiche, di  sera dalla piazza si può ammirare il bellissimo panorama marittimo.</string>
+    <string name="place_piazzaMercantile_content">Piazza Mercantile</string>
+    <string name="place_piazzaOdegitria_content">Piazza Odegitria si trova nel cuore della città vecchia di Bari.
+Era ed è ancora un modesto slargo che ricorda "l\'immagine" della Madonna portata a Bari nel 733 da alcuni monaci che "l\'avevano" rubata a Costantinopoli.
+Il quadro della Vergine Odegitria, cioè “che indica la via”, potrebbe essere quello che si trova nella cripta del Duomo che domina la piazza.
+Fu detta “Piazza Odegitria” nel 1292 quando il Duomo fu ufficialmente dedicato alla Madonna Odegitria.</string>
+    <string name="place_sanGregorio_content">La chiesetta di San Gregorio, una delle più antiche di Bari situata nella città vecchia, si affaccia sulla Piazzetta dei 62 Marinai  e fu edificata fra il X e il XI secolo.
+La chiesa è in stile romanico -pugliese .
+All’interno si trova un crocifisso che si dice risalga al XVII secolo e le pareti spoglie rendono la chiesa piuttosto austera.</string>
+    <string name="place_santaMariaDelBC_content">La chiesa di Santa Maria Del Buon Consiglio è situata "nell\'omonima" piazza del borgo antico di Bari ed era originariamente luogo di culto e di aggregazione. "L\'edificio" risale al IX secolo e, dopo la distruzione della città da parte di Guglielmo I detto il Malo, fu ricostruito utilizzando delle colonne del periodo romano "dell\'alto" Medioevo. Gli scavi archeologici hanno consentito di accertare tre diverse fasi "dell\'edificio" di culto:
+-la fase più antica risale ai secoli IX e X di cui rimane traccia nei resti del pavimento a mosaico in marmo;
+-la fase successiva è databile ai secoli XI e XII, come testimonia il mosaico pavimentale della navata centrale realizzato con blocchetti di calcare e di marmo policromo;
+-la fase più recente risale al XVIII secolo.
+Purtroppo, "dell'\antica" chiesa monoabsidata a tre navate, sono visibili oggi solo pochi resti. </string>
+    <string name="place_santAnna_content">La chiesa di "Sant\'Anna" è sita in strada Palazzo di città ,risale al XI
+secolo. Si tratta di una chiesa di grande interesse architettonico per la commistione di stili. "L\'esterno" della chiesa ha una facciata a “campana” con un tetto a falda.
+La superficie è bianca con la presenza di formelle marmoree, che raffigurano animali reali o fantastici tratti dalla cultura bizantina.
+"All\'interno" conserva un impianto rinascimentale a navata unica, con un altare in legno scolpito ed ornato da statue che raffigurano santi francescani.</string>
+    <string name="place_santaScolastica_content">La chiesa è una delle più antiche della citta e si trova alla fine delle mura di Via Venezia.
+Fu costruita prima del 1100 e risale forse all’VIII secolo ed è realizzata in pietra locale.
+Il complesso comprende la chiesa , "l\'" ex monastero delle Benedettine e il fortino.
+La facciata della chiesa ed  il fortino sono  in stile barocco mentre il campanile è romanico.
+Attualmente è sede universitaria ed ospita il museo archeologico della città.</string>
+    <string name="place_viaAppia_content">La strada fu costruita nel 103 d.C. "dall\’ imperatore Traiano" per collegare Benevento a Brindisi la parte di strada romana presente in Piazza Ferrarese fa parte della Via Appia-Traiana, oggi è un reperto archeologico visibile al pubblico. Sul Lungomare della città vi è un cippo in marmo che rappresenta una colonna miliare con le informazioni inerenti la distanza, il nome "dell\’ imperatore", le sue cariche onorarie e le spese per la costruzione della via.</string>
+    <string name="place_viaVenezia_content">Via Venezia è la strada sopraelevata che delimita "dall\'interno" le mura del borgo antico. La muraglia fu fortificata nel XV secolo a guardia del porto,
+ma ha alla base "l\'impianto" medievale.
+Le mura vennero restaurate tra il XV e XVI secolo ed erano un vero e proprio fiore "all\'occhiello" per la città.
+Fino al 1930 le mura si affacciavano direttamente sul mare, oggi la muraglia costituisce una stupenda passeggiata intorno al borgo antico.</string>
+    <!-- the end-->
+
+    <string name="bedfood_dialog_web">Apri nel browser</string>
+    <string name="bedfood_dialog_map">Vedi sulla mappa</string>
+    <string name="close">Chiudi</string>
+    <string name="language">English</string>
+    <string name="credits">Crediti</string>
+    <string name="intro">“Alla ricerca delle nostre radici”\nPasseggiando per Bari antica…</string>
+    <string name="cityCredit">Il progetto è stato finanziato dal Comune di Bari, Assessorato "all\'Istruzione" e patrocinato dal Municipio 2
+attraverso il valido apporto e guida della Dott.sa A. Positano, storica "dell\'arte."</string>
+
+    <string name="schoolCredit">ISTITUTO COMPRENSIVO “NICOLA ZINGARELLI”\n
+Via Pansini 3, 70124 – Bari\ntel.080 – 5618272\nfax 080 – 5096924\n
+Codice fiscale 93249390720\n
+baic81300t@istruzione.it\n
+BAIC81300T@PEC.ISTRUZIONE.IT</string>
+    <string name="read_more">Continua a leggere…</string>
+    <string name="contacts_title">Contatta lo sviluppatore</string>
+    <string name="mail">e-mail</string>
+    <string name="twitter">twitter</string>
+
+</resources>
